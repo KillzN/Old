@@ -22,11 +22,11 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The Mystic Bot';
+  const wm = 'KillzN Bot';
   const info = ` _*< INFO - ESTADO />*_
-
-𝐌𝐚𝐧𝐠 𝐛𝐨𝐭
-
+▢ *Prop.:* 𝗞𝗜𝗟𝗟𝗭𝗡 𝗦𝗧𝗢𝗥𝗘
+ ▢ *WA:* +56983073328
+ ▢ *PayPal:* paypal.me/ineffablexmvrco
  ▢ *Ping:* ${rtime}
  ▢ *Uptime:* ${uptime}
  ▢ *Prefijo:* ${usedPrefix}

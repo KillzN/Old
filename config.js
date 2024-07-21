@@ -10,39 +10,39 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', false],
-  ['51992621601', '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601','𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃', true],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'], 
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601']
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', false],
+  ['56983073328', '𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328','𝗞𝗜𝗟𝗟𝗭𝗡', true],
+  ['56983073328'],
+  ['56983073328'],
+  ['56983073328'],
+  ['56983073328'],
+  ['56983073328'],
+  ['56983073328'],
+  ['56983073328'],
+  ['56983073328'], 
+  ['56983073328'],
+  ['56983073328'],
+  ['56983073328'],
+  ['56983073328']
 ];
 
-global.suittag = ['51992621601'];
-global.prems = ['51992621601'];
+global.suittag = ['56983073328'];
+global.prems = ['56983073328'];
 
 global.packname = 'Sticker';
-global.author = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
-global.wm = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃t';
-global.titulowm = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
-global.titulowm2 = `𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃`
-global.igfg = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
+global.author = '𝗞𝗜𝗟𝗟𝗭𝗡';
+global.wm = '𝗞𝗜𝗟𝗟𝗭𝗡';
+global.titulowm = '𝗞𝗜𝗟𝗟𝗭𝗡';
+global.titulowm2 = `𝗞𝗜𝗟𝗟𝗭𝗡`
+global.igfg = '𝗞𝗜𝗟𝗟𝗭𝗡';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -64,14 +64,14 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
-global.mysticbot = '𝐀𝐥𝐞𝐢𝐳𝐧-𝐌𝐃';
+global.gt = '𝗞𝗜𝗟𝗟𝗭𝗡';
+global.mysticbot = '𝗞𝗜𝗟𝗟𝗭𝗡';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '5219993404349';
+global.nomorown = '56983073328';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
